@@ -1,0 +1,13 @@
+a {
+  display: block;
+  font-size: 20px;
+  margin: 30px 15px;
+}
+
+.button.is-hidden {
+  display: none;
+}
+
+.button > .spinner.is-hidden {
+  display: none;
+}
